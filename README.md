@@ -1,6 +1,3 @@
-# KirkeJS
-Javascript Library to add css transitions to your webpage
-
 # KirkeJS!
 
 KirkeJS is a js-library which adds dynamically css-classes to your html-document through **click-events** and also **scroll-events**.  The idea is to add css-classes with keyframe-animations to add these animations dynamically through js based on their events. The script is working through classes and dataset-elements.
